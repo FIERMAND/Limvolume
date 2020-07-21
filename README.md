@@ -1,4 +1,4 @@
-# Limvolume
+# Limvolume - Limit the volume in Windows (tested Windows x86)
 <h3>This app is an app for limiting the volume on a computer. Use this app well, never to be abused</h3>
 <br/>
 To configure this application, open the Config.json file
